@@ -1,0 +1,41 @@
+h1, h2, h3{
+
+	color :#3f2682;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+th{
+	color :#514780;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+a{
+	color :#922224;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+a:hover{
+	color: #934257;
+}
+.navbar.navbar-inverse.navbar-fixed-top{
+	background-color: #934257;
+
+}
+nav{
+	background-color: #922224;
+	border-color: #922224;
+
+}
+.pagination ul  li{
+	color :#922224;
+}
+
+.sort:hover {cursor:pointer;}
+ 	.pl{background-color: #ff7878;}
+ 	.sp{background-color: #93ff78;}
+ 	.go{background-color: #fbff78;}
+
+ 	.lpl{background-color: #ffe0de;}
+ 	.lsp{background-color: #e3ffde;}
+ 	.lgo{background-color: #fffede;}
+
+
+
+* { font-family: Helvetica Neue, Helvetica, Arial, sans-serif; }

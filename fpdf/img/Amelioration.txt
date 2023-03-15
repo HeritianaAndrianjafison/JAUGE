@@ -1,0 +1,9 @@
+Jtrac
+Categorie,
+date reclamation et date échéance
+Statut (Ouvert ou assigné)
+Catégorie (ITM* , TRAV*, SINISTRE,Charg*)
+
+Vérification heure de debut et fin intervention
+
+Système de validation multiple
